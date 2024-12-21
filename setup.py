@@ -10,7 +10,7 @@ setup(
     description='A Python package to validate JSON dictionaries', 
     long_description=open('README.md').read(),  
     long_description_content_type='text/markdown',  
-    url='https://github.com/yourusername/pydictvalidator',  # URL of the project repository
+    url='https://github.com/PandiselviGIT/pydictvalidator',  # URL of the project repository
     classifiers=[
         'Programming Language :: Python :: 3',           # Indicates compatibility with Python 3
         'License :: OSI Approved :: MIT License',        # License type
